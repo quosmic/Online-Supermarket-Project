@@ -1,0 +1,1 @@
+This is an online grocery shopping app where customers customers can register and order items. Implemented two types of logins to handle products: user login & admin login; languages used: JAVA- Backend, MYSQL- Database
